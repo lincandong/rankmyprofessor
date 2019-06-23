@@ -1,0 +1,7 @@
+/dist
+/dist-old
+/node_modules
+/build
+/.vscode
+/spider/gaokaopai/data
+/data

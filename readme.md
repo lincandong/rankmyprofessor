@@ -1,0 +1,8 @@
+
+
+
+
+/school/teacher
+
+/school/course
+

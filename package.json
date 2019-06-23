@@ -1,0 +1,44 @@
+{
+  "name": "rankmyprofessor",
+  "version": "1.0.0",
+  "description": "a modified web app based on RankMyProfessor, ZJU",
+  "main": "index.js",
+  "dependencies": {
+    "@types/bluebird": "^3.5.26",
+    "@types/body-parser": "^1.17.0",
+    "@types/koa-bodyparser": "^4.2.2",
+    "@types/koa-router": "^7.0.40",
+    "@types/koa2-cors": "^2.0.1",
+    "@types/nunjucks": "^3.1.1",
+    "@types/sequelize": "^4.27.46",
+    "@types/validator": "^10.11.0",
+    "body-parser": "^1.18.3",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "mysql2": "^1.6.5",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.9.0",
+    "reflect-metadata": "^0.1.13",
+    "sequelize": "^5.2.10",
+    "sequelize-typescript": "^0.6.9",
+    "typescript": "^3.3.4000"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/lincandong/rankmyprofessor.git"
+  },
+  "author": "melonLin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lincandong/rankmyprofessor/issues"
+  },
+  "homepage": "https://gitlab.com/lincandong/rankmyprofessor#readme",
+  "devDependencies": {
+    "@types/koa": "^2.0.48",
+    "@types/node": "^11.13.0"
+  }
+}

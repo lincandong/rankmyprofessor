@@ -1,0 +1,9 @@
+SSH:
+InfoProf@sol-pic.com
+20190403
+
+DB:
+sicool-access@localhost'
+123
+sicool@localhost
+123
